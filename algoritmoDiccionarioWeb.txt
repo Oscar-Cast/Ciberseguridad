@@ -1,0 +1,21 @@
+Inicio
+
+    Definir la direccion base del servidor
+
+    Definir la ruta del archivo que contiene la lista de palabras (diccionario)
+
+	Abrir el archivo y cargar cada palabra en una lista, eliminando espacios en blanco o saltos de línea
+
+	Iterar cada palabra de la lista para buscar direcciones
+	
+    Construir la direccion completa: direccion + Palabra
+
+    Si el código de estado es 200 (OK): El recurso existe
+
+    Si el código es 403: El recurso existe pero no hay permisos
+
+    Si el código es 404: El recurso no existe.
+
+	Mostrar en pantalla los rasultados
+
+Fin

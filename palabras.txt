@@ -1,0 +1,8 @@
+admin
+index.html
+config.php
+uploads
+backup.zip
+.env
+login
+scripts

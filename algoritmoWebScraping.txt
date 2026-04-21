@@ -1,0 +1,16 @@
+
+  Inicio
+
+    Entrada: Solicitar al usuario la URL de la página web
+
+    Conexión: Realizar una petición  para descargar el código HTML
+
+    Busqueda de Comentarios:  buscar el patrón ``
+
+    Busqueda de Correos:  buscar el patrón estándar de emails
+
+    Almacenamiento: Crear un archivo donde se almacene la informacion y escribir en él ambos listados
+
+    Confirmacion de terminacion de la busqueda.
+
+  Fin
