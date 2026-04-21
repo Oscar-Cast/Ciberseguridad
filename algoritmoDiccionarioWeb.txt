@@ -1,4 +1,3 @@
-Inicio
 
     Definir la direccion base del servidor
 
@@ -18,4 +17,3 @@ Inicio
 
 	Mostrar en pantalla los rasultados
 
-Fin
