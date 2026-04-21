@@ -1,15 +1,11 @@
-Escáner de Red
 
-  Inicio
 
-    Configurar el objetivo: Definir las tres primeras octetas de la red local (ej. 192.168.1)
+     Definir las tres primeras octetas de la red local (ej. 192.168.1)
 
-    Ciclo de escaneo: Iterar las direcciones entre el 1 al 254 para completar la dirección IP
+     Iterar las direcciones entre el 1 al 254 para completar la dirección IP
 
     Ejecutar comando del sistema: Usar la función de sistema para enviar un paquete ping
 
-    Validar respuesta: Si el sistema devuelve un código de éxito (0), guardar la IP en una lista de activos
+    Si el sistema devuelve un código de éxito (0), guardar la IP en una lista de activos
 
-    Salida de datos: Imprimir la lista de todos los dispositivos que respondieron
-
-  Fin
+    Imprimir la lista de todos los dispositivos que respondieron
